@@ -8,7 +8,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : Jack ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Chicago | Music 8 `)//حقوق دايموند كودز
+client.user.setGame(`Tiger Gamer `)//حقوق دايموند كودز
 client.user.setStatus("online")
 });
 
